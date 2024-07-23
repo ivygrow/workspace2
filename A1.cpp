@@ -77,3 +77,4 @@ int del_substr(char* str, char const* substr)
     }
     return 0;
 }
+//我进行了一次更改//
